@@ -1,6 +1,1 @@
-Beer
-Wine
-Gin
-Vodka
-Whiskey
-Rum
+Tequila
